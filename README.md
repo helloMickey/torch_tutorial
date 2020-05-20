@@ -1,5 +1,6 @@
 # Repo desc：
-basic pytorch usages
-- tensor
+basic pytorch usages:
+- numpy
+- torch.tensor
 - torch.nn.utils.rnn
-- function
+- torch.nn.utils.functional
